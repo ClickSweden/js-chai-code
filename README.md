@@ -1,3 +1,3 @@
 # demo
 This is my Demo Repository <br>
-Author - Shezi Mø
+Author - Shezi from Sweden
