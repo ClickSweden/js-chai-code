@@ -54,3 +54,5 @@ console.log("------------");
 console.log(typeof colors) // => object
 console.log(typeof person) // => object
 console.log(typeof myFunction) // => function
+
+// https://262.ecma-international.org/5.1/#sec-11.4.3
